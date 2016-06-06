@@ -591,7 +591,7 @@
 
 		
 <script>
-	var SLConfig = {"current_user":{"id":515524,"username":"danielfeldman","name":"Daniel Feldman","description":null,"thumbnail_url":"https://lh3.googleusercontent.com/-WOI2pm7pvOE/AAAAAAAAAAI/AAAAAAAAADY/BneZM5i4uu8/photo.jpg?sz=50","pro":false,"team_id":null,"settings":{"id":358243,"present_controls":true,"present_upsizing":true,"present_notes":true,"editor_grid":true,"editor_snap":true,"developer_mode":false},"email":"dfeldman.mn@gmail.com","notify_on_receipt":true,"billing_address":null,"editor_tutorial_completed":true,"manually_upgraded":false,"deck_user_editor_limit":1},"deck":{"id":705815,"slug":"deck","title":"deck","description":"","visibility":"all","published_at":"2016-05-20T00:28:18.228Z","sanitize_messages":null,"thumbnail_url":"https://s3.amazonaws.com/media-p.slid.es/thumbnails/79b16a94a351106a1d8e11b1acaaf4da/thumb.jpg","view_count":1,"user":{"id":515524,"username":"danielfeldman","name":"Daniel Feldman","description":null,"thumbnail_url":"https://lh3.googleusercontent.com/-WOI2pm7pvOE/AAAAAAAAAAI/AAAAAAAAADY/BneZM5i4uu8/photo.jpg?sz=50","pro":false,"team_id":null,"settings":{"id":358243,"present_controls":true,"present_upsizing":true,"present_notes":true}},"background_transition":"slide","transition":"slide","theme_id":null,"theme_font":"montserrat","theme_color":"yellow-black","auto_slide_interval":0,"comments_enabled":true,"forking_enabled":true,"rolling_links":false,"center":false,"should_loop":false,"share_notes":null,"slide_number":null,"rtl":false,"version":2,"collaborative":null,"deck_user_editor_limit":1,"access_token":"yFxSYkWAF64yFMnEHdRpxAcqN6gr","notes":{}}};
+	var SLConfig = {"current_user":{"id":515524,"username":"danielfeldman","name":"Daniel Feldman","description":null,"thumbnail_url":"https://lh3.googleusercontent.com/-WOI2pm7pvOE/AAAAAAAAAAI/AAAAAAAAADY/BneZM5i4uu8/photo.jpg?sz=50","pro":false,"team_id":null,"settings":{"id":358243,"present_controls":true,"present_upsizing":true,"present_notes":true,"editor_grid":true,"editor_snap":true,"developer_mode":false},"email":"dfeldman.mn@gmail.com","notify_on_receipt":true,"billing_address":null,"editor_tutorial_completed":true,"manually_upgraded":false,"deck_user_editor_limit":1},"deck":{"id":705815,"slug":"deck","title":"deck","description":"","visibility":"all","published_at":"2016-05-20T00:28:18.228Z","sanitize_messages":null,"thumbnail_url":"https://s3.amazonaws.com/media-p.slid.es/thumbnails/79b16a94a351106a1d8e11b1acaaf4da/thumb.jpg","view_count":1,"user":{"id":515524,"username":"danielfeldman","name":"Daniel Feldman","description":null,"thumbnail_url":"https://lh3.googleusercontent.com/-WOI2pm7pvOE/AAAAAAAAAAI/AAAAAAAAADY/BneZM5i4uu8/photo.jpg?sz=50","pro":false,"team_id":null,"settings":{"id":358243,"present_controls":true,"present_upsizing":true,"present_notes":true}},"background_transition":"slide","transition":"fade_in","theme_id":null,"theme_font":"montserrat","theme_color":"yellow-black","auto_slide_interval":0,"comments_enabled":true,"forking_enabled":true,"rolling_links":false,"center":false,"should_loop":false,"share_notes":null,"slide_number":null,"rtl":false,"version":2,"collaborative":null,"deck_user_editor_limit":1,"access_token":"yFxSYkWAF64yFMnEHdRpxAcqN6gr","notes":{}}};
 
 
 
@@ -661,6 +661,7 @@ var curgroup = 5;
 var curslide = Reveal.getIndices().h;
 var firstad = 43;
 var curad = firstad; 
+ var counter = 0;
 function reqListener () {
   console.log(this.responseText);
   //curgroup = this.responseText.substring(0,1);
@@ -688,7 +689,8 @@ function isShowable(x) {
 }
 
 function nextSlide() {
-   if (Math.random() < 0.3 && curgroup != 0) {
+   counter++;
+   if ((counter %3 == 1) &&  curgroup != 0) {
        // Show an ad
        for (var i=curad+1; Reveal.getSlide(i,0); i++) {
           if (Reveal.getSlide(i,0).classList.contains("group0")) { 
