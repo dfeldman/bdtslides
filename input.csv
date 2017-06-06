@@ -1,49 +1,50 @@
-"Conference Kickoff and Keynote Presentation
-",Sri Ambati,9:00,Auditorium,1,http://www.gannett-cdn.com/-mm-/ef8663885cfedb7affd50a95e90ca4946180e5fb/c=72-0-1208-854&r=x404&c=534x401/local/-/media/2015/12/17/USATODAY/USATODAY/635859736042045646-Sri-Ambati.jpg
-Watson Analytics: Your Data Scientist in a Box ,Nick Acosta,9:00,Garden Room,1,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAASbAAAAJDVhZjZiMDZiLTMyYTItNDhlMy1hYzNmLTcxOWM5MTc3ZjE5Nw.jpg
-Building A Streaming Data Platform For Everyone: Apache Kafka and the Confluent Platform ,Ben Ortega,9:00,Room P0806,1,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAjiAAAAJDlkNzA3ODdkLWIwZDgtNGUwMS05NWU2LTZiYzIyNzdmMDg3Nw.jpg
-BASH through the Barriers: Moderating the Clinical Research and Computational Divide ,Margaret Mahan,9:00,Room P0808,1,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAcQAAAAJDAwMWM1Yzc4LTlhOWUtNDg0YS1hYmQ3LTc2YzBlZWE0ZDcxZQ.jpg
-The Journey to a Modern Data-to-Insight Pipeline ,Nenshad Bardoliwalla,10:00,Auditorium,2,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/005/06f/1f9/0480d32.jpg
-A Bayesian Approach to Predictive Pricing ,Josh Cutler,10:00,Garden Room,2,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAhDAAAAJDFlOTEwMWUxLTMzNTQtNDMwYy05MzhmLTQ1ZDFlNzQ5ZDA2ZA.jpg
-High Volume Streaming Data: How Amazon Web Services is Changing Our Approach ,Michael Krouze,10:00,Room P0806,2,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAOOAAAAJGNkNDZhMmVjLWE3OGUtNDI5OS05YmMzLWQxMWViNDgxMWY4Ng.jpg
-Data Warehousing the Easy Way with AWS Redshift ,Eric Ness,10:00,Room P0808,2,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAdrAAAAJGVjZDk5YTU1LWIyOWQtNDQ2NC1iZmMzLTJiNGEwNjg1YjIxNw.jpg
-R Studio Server on Amazon EMR ,Chad Dvoracek,10:00,Room P0838,2,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/000/2cd/237/2d4827c.jpg
-Driving Data Initiatives (�even when you are not in charge) ,Ryan Sougstad,10:00,Room P1808,2,https://media.licdn.com/media/AAEAAQAAAAAAAATrAAAAJDU0MWFkNjBiLWFiODItNDA1OC1hNWUzLTAyMTRmNjY3N2ZmOA.jpg
-Start with a Question ,Drew Barwis,10:00,Room P1838,2,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/091/28d/135df56.jpg
-"Enabling Big Data Research at the Minnesota Supercomputing Institute
-",Jeff McDonald,10:45,Auditorium,3,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAWIAAAAJDJkMjhhMTQwLTIyZjItNGIyYS1iMTRlLTNkN2FjMTlmZmE5ZA.jpg
-Data Science is Getting Easier. . . Maybe? ,Ryan Swanstrom,10:45,Garden Room,3,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/005/04e/046/2456341.jpg
-Learning from History's Largest Source of Knowledge / The Promise and Pitfalls of Mining Wikipedia,Shilad Sen,10:45,Room P0806,3,https://media.licdn.com/media/p/2/000/03b/1aa/3b18642.jpg
-"Function over Framework: Map Reduce, Tez and Spark - How to Select What Jobs to Run Where ",Adam Gugliciello ,10:45,Room P0808,3,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/0ab/2ea/15d8d74.jpg
-Exploratory Data Analysis and Tag Identification with an LDA Model for Stack Overflow Data ,Sona Maniyan and Ramesh Ramanujam,10:45,Room P1808,3,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAOgAAAAJDY3ZDQ4ZWNjLTY0N2ItNDhjOC05ZTQ1LWUwYjY0NjIwODVkNQ.jpg
-Open Data Science and the Python Ecosystem ,Jean-Marie Bertoncelli,10:45,Room P1838,3,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/081/262/00ff5c3.jpg
-"Open Data Science with Anaconda: A Dozen of the Top Python LIbraries 
-",Kris Overholt,11:45,Auditorium,4,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/095/3d9/3398574.jpg
-"Building Solutions with Kafka, Storm and Drools ",Shaharyar Khan,11:45,Garden Room,4,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAWpAAAAJGFlN2E1Mzk5LWY5MTktNGMzNS1iOGI1LWUyODliNjIwMzIzMw.jpg
-Making Everyone A Hadoop User: Full-Text Search with Apache Solr and Apache Hadoop Made Easy ,Mac Noland,11:45,Room P0806,4,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAASdAAAAJGJlODU3NjM4LWUzNTMtNDk0YS1hOWJlLTNhZDUzNTg2M2ZkZQ.jpg
-Taming the Elephant: A General Mills Tale ,Elizabeth Carroll-Anderson,11:45,Room P0808,4,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/0a8/0a8/196bfcd.jpg
-AOL's High Throughput Big Data Ecosystem ,Benjamin Jackson,11:45,Room P0838,4,https://media.licdn.com/media/p/3/000/01a/321/3041aad.jpg
-Detecting Bad Data with Zeppelin ,Frank Schilder,11:45,Room P1838,4,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/06f/0ec/060c1fe.jpg
-Analytics for Impatient People ,Ryan Hedlund and Joe Kelleher,12:15,Room P0806,5,https://media.licdn.com/media/p/1/000/056/2d6/2f0371b.jpg
-"Connected Cars, Gaming, and Oil Rigs: A Fast Connected World with the Cassandra Database ",Mitch Henderson,12:15,Room P0808,5,https://media.licdn.com/media/AAEAAQAAAAAAAAH_AAAAJDNhMDIwNTMxLWE5NjEtNGE5Yy1hNjBkLWYyOGQ1ODUxMjQwZQ.jpg
-" Market Competitiveness Scoring
-",Lisa Schlosser and Jason Todd,1:15,Auditorium,6,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/08d/1ec/2bf57c6.jpg
-Data Analysis Using Spark and Cloudera Impala ,Kasaba Bharathi,1:15,Garden Room,6,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/0a3/02f/094d97f.jpg
-Text Convolution Neural Network with TensorFlow and GPUs ,John Hudzina,1:15,Room P0806,6,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKIAAAAJGI0ZThjYWVjLWU3NTktNGJjZi1hNjUwLTk1ZDcxYjQwYWFiMQ.jpg
-Master Data: The Foundation of Big Data ,Kristine Rennaker,1:15,Room P0808,6,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/0a3/3f0/138e38e.jpg
-"Data Wrangling on Hadoop: Overcoming Enterprise Challenges
-",Sean Kandel,1:15,Room P0838,6,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/005/02c/0e0/059b353.jpg
-"Introduction to Scala and Spark
-
-
-",Brad Rubin,2:00,Auditorium,7,https://media.licdn.com/media/p/4/000/14e/176/1962cec.jpg
-How AoT is Monetizing IoT ,John Thuma,2:00,Garden Room,7,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAaqAAAAJDgzZGFkZTI4LThiZTgtNGI3OC04ZTcxLTc1MmQ1MjVjYjE3Mg.jpg
-Machine Learning Applied to Effectiveness ,Maciej Lazarewicz,2:00,Room P0806,7,https://media.licdn.com/media/p/6/005/00e/156/38f8824.jpg
-Using Streaming Technology to Enable Real-time Applications ,Marc Fabbo,2:00,Room P0808,7,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/000/2c7/349/012790e.jpg
-Developing Fast and Scalable Customer Intelligence Solutions on AWS Redshift ,Jakub Jez,2:00,Room P0838,7,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/1b7/36f/29f5130.jpg
-Data Drives Change. Change Drives Opportunity ,Amy O'Connor,3:00,Auditorium,8,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/00b/100/043dc01.jpg
-The Benefits of Spherical Cows (Hypothetical Modeling) ,Scott Ernst,3:00,Garden Room,8,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/09f/309/3e4b944.jpg
-Ensemble Learning and Hyper-parameter Estimation ,Ravi Shanbhag,3:00,Room P0806,8,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAbrAAAAJDM1OGZiNWFmLTlhYmItNDM0My1iYTk2LThmZjkyMTAyOTg5ZA.jpg
-Neural Networks for Newbies ,Theo Kanning,3:00,Room P0808,8,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/083/2ff/1bd1a73.jpg
-Using Our Brain to Understand Learning ,Larry Werth,3:45,Auditorium,9,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/142/30f/17d7caa.jpg
-Counting People With a Camera and Number Tables: A Talk Using Only the 1000 Most Simple Words,Patrick Delaney,3:45,Room P0806,9,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAeaAAAAJDkzMzQ3OTA1LTIxYzktNDBlYy05ZWMyLTNhZWE2MjFiMjE3Mw.jpg
+,,,,,,,,,
+Professor of Statistics,University of Minnesota at Morris,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/005/086/0b3/35f2cbf.jpg,Hollywood Movie Analysis by Machine Learning,,Jong-Min,Kim,2,Garden Room,10:00
+Principal Engineer/Founder and Architect,Tintri,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/000/1ac/096/19661d1.jpg,Exploring Data from Real-World Virtual Machines,,Mark,Gritter,2,Auditorium,10:00
+Director Data Strategy & Architecture,Optum,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAALyAAAAJDE4MWYxZGI0LTdjZDAtNGYzNS04YjYzLWQ5ZDIzOWUwZDUxNg.jpg,How I Learned to Stop Worrying and Love Data Governance,,Gabe,Hart,3,P0806,11:00
+Senior Director of AI & ML,Optum Technologies,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/11a/3a8/34522bc.jpg,Cognitive Rational Intelligent Agent,,Matthew,Versaggi,6,P0808,3:15
+Optum,,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/000/207/1d2/00b5d3d.jpg,Optimizing a Big Data Platform Using Big Data Technologies,,Bosky,Mathew,5,P0808,1:15
+Director Information Technology & Sr. Enterprise Architect,Optum,,,,Raimund,Dettmer,0,P1808,11:45
+Clojure + Scala Engineer,SimplyCredit,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/000/256/3e8/19f9027.jpg,Deep Learning Made Easy: Building a Better Tensorflow,,Stephen ,Hopper,3,P1808,11:00
+Principal Consultant,Accredent,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/000/1fc/2a2/339f909.jpg,Let go of your Data and look at the real world,,Jen,Nowlin,1,P0838,9:00
+Chief Data Scientist,Ars Quanta,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/033/09f/1cf2796.jpg,R workshop,,John,Chandler,5,P1804,1:15
+Data Scientist,Honeywell,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/050/276/3286306.jpg,Analytics for the Industrial Internet of Things: Mining the Cyber-Industrial World,,Wendy,Foslien,4,Garden Room,11:45
+Data & Analytics Architect,Thomson Reuters,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAfMAAAAJGEyNWM2ODg1LTk3NjQtNDliOS1iNjRjLTA2MjNhNmI2MTM4OA.jpg,Deep Learning with Keras,,John,Hudzina,3,Garden Room,11:00
+Connected Data Lake Strategy,General Mills,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAANcAAAAJDlmMWNjN2ZkLTljZTAtNDUwZS1iOGFlLTVhY2I1M2M5MTQwOA.jpg,Connected Data for the Enterprise,,Jason,Staloch,5,P0808,11:45
+Sr Data Scientist,General Mills,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAitAAAAJGNiM2E3NTNkLWU4OWMtNDQ3ZS1iZWM1LWM5OGZiN2I5Mjk3OA.jpg,Geospatial Analysis with Python,,John,Hogue,5,P0808,1:15
+Sr Data Scientist,General Mills,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAitAAAAJGNiM2E3NTNkLWU4OWMtNDQ3ZS1iZWM1LWM5OGZiN2I5Mjk3OA.jpg,Rise of Crowd Sourced Analytics & Skill Volunteerism,,John,Hogue,6,P0808,2:15
+Data Engineer,General Mills,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/01f/108/01cadd1.jpg,"Pynamic, Python Driven Hive Ingestion",,Mike,Menne,6,P0838,2:15
+Director of Data Science,Digital River,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAANdAAAAJDE2ZThmMzA2LWI2YTAtNDk5MC04OWM4LTJjNmRlMjliODM3OA.jpg,Machine Learning chat bots and conversational AI will make the next big IT disruption,,Sanjib,Basak,4,P1838,11:45
+Founder,IoT Fuse,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAiJAAAAJDU4YTRiZjM5LTJjYjUtNDA2OS1iMzkyLWE1MWU5N2FlNTgxOA.jpg,Other people who attended this session also liked…,,Patrick,Delaney,2,P1808,10:00
+Author & Data Scientist,UHG,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKEAAAAJGNmODZkOWNiLTVmNjktNDY1ZS1iODgxLWMyYzljMWU1YmQwZA.jpg,Using Machine Learning to Cluster Hundreds of USA locations based on Talent,,Batool,Haider,4,P0808,11:45
+Analytics Consultant,Slalom Consulting,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAz6AAAAJDczODI1NGYwLWEzYWYtNDRiZS04ODk0LWVmNmRiM2MwYmI2MA.jpg,More than Data: Evaluating Platforms for Analytics,,Abhishek,Roy,3,P1808,11:00
+Analytics Consultant,Slalom Consulting,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAiFAAAAJGMwZmJjZjkzLWQ2OGItNGI4Ni04YzcxLWU2NTk1ODgwMmVlZg.jpg,Taking Advanced Analytics to the Cloud with R and AWS: A step-by-step demonstration,,Luke,Stanke,6,P1838,2:15
+Sr. Big Data Manager,Land o Lakes,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAATFAAAAJGJlYjQyYzFlLWY5NWUtNDY5Yi04M2ZlLTMwMjRhODE1NGNkOQ.jpg,Marketing Digital Command Center,,Chakra,Sankariah,1,P0806,9:00
+Sr. Data Scientist,Polaris Industries,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/12a/275/0379cc0.jpg,Measurement Mastery: Improve Accuracy through Clustering and Match Pairs,,Peter,Eliason,8,P0806,4:00
+Data Scientist,General Mills,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/000/279/28e/0dfe5dc.jpg,Data Science in the Cloud: Leveraging Amazon Web Services ,,Brianna,Noland,3,P1838,11:00
+"Professor, Director, COE for Big Data",St Thomas,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/14e/176/1962cec.jpg,Spark and Scala: The Next Generations,,Brad,Rubin,7,Auditorium,3:15
+Data Scientist,When I Work,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/09f/309/3e4b944.jpg,Why Data Science Fails,,Scott,Ernst,5,P1838,1:15
+Associate Professor,Augustana University,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAATrAAAAJDU0MWFkNjBiLWFiODItNDA1OC1hNWUzLTAyMTRmNjY3N2ZmOA.jpg,"Ethics of Data Analytics...Beyond Compliance towards ""Metrics of Ethics""",,Ryan ,Sougstad,4,P0806,11:45
+Veritas Technologies,,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAtHAAAAJGFiNTdjN2NiLTljNTEtNDk0Zi1hYjFjLTM3YTJlMmU5NjNlMA.jpg,Transitioning to a Career in Analytics and Big Data,,"Sona Maniyan,",Jyotsna Magani,1,P1808,9:00
+Head Founder,Monicat Data,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAhqAAAAJDQ5NDIzN2M1LWNiYWItNGQ0YS05Njg5LWM3YmQ4MmUxZmIzNw.jpg,Data for Artists and Creative Organizations ,,Jasmine ,Russell,2,P0838,10:00
+Software Engineer,Stat-Ease,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/042/261/282054e.jpg,Brewing the Perfect Pot of Coffee: Design of Experiments with Python,,Hank,Anderson,4,P0838,11:45
+CEO,Reliancy,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/11b/377/2f623b4.jpg,Using Container Orchestration Frameworks To Empower Machine Learning,,Rudy,Agovic,7,P0838,3:15
+"VP, Global Emerging Practices",Think Big Analytics,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/075/3e1/317d599.jpg,Applied AI in the Enterprise,,Atif,Kureishy,6,F1265,2:15
+"President & CTO, Product GM",C3 IoT,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/17d/16a/054acce.jpg,IoT: AI at Enterprise Scale,,"Ed Abbo, ",Adi Bhashyam,1,Auditorium,
+Software Developer,Anaconda,https://www.continuum.io/sites/default/files/jim_crist_0.jpg,New Developments in Scaling Python Analytics,,James,Crist,3,Auditorium,11:00
+VP Sales Engineering,Fuzzy Logix,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/000/1ec/32b/312df6d.jpg,"Using in-database and GPU analytics to gain greater insight, faster, from your data",,Alex,Depaoli,4,Auditorium,11:45
+Industry Leader for Manufacturing & IoT,Cloudera,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/0f2/24b/1391623.jpg,Industrial Revolution 4.0 - Driving IoT Enabled Predictive Maintenance,,Dave,Shuman,3,P0838,11:00
+Solutions Engineer,Confluent,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAnoAAAAJDc2MTYxZTY0LTA5YWEtNGVhYi04NjMyLTE2MzZiZjI5YjNiZQ.jpg,Building Streaming Applications with Apache Kafka,,Cliff,Gilmore,4,P1838,11:45
+CTO,Dell EMC Services Big Data,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAADbAAAAJDQyZTViYzZkLWUzMzAtNDZmMS1iMTM0LTNjNTk4NGYxOWFhOA.jpg,Monetizing Your Data Science,,Bill,Schmarzo,1,Garden Room,9:00
+"Analytics, Cognitive Computing & IoT",Evolving Solutions,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAI7AAAAJGMyYzcyZDA1LTFiN2UtNDA5ZC1hN2VmLTJkNmZjOTQxNjc5MA.jpg,Demystifying Cognitive Computing,,Colleen,Balda,7,P0806,3:15
+"Director, Global Data Science",MapR,https://mapr.com/en/blog/author/joseph-blue/assets/joeblueone4x4.jpg,Where are we at with Deep Learning?,,Joe,Blue,5,P0806,1:15
+Engineer & Scientist,The Nerdery,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/000/2cd/237/2d4827c.jpg,Analytics for Everyone - Designing a Modern Plug and Play Data Lake,,"Chad Dvoracek,",Kevin Schiroo,6,Garden  Room,2:15
+Engineers,phData ,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA0DAAAAJGUwZmIyZmNkLTc1NmYtNGNiNy1hODJjLTkwMjk0ZWJkMjhjOQ.jpg,Data Science on Hadoop,,"Safwan Islam,",Nipun Parasrampuria,0,,
+VP Technology,Pure Storage,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/000/08a/2b5/05191d9.jpg,Proactive Support to Machine Learning,,Terry,Noonan,5,P0838,1:15
+VP Products,Infoworks ,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/005/048/399/2b17bfe.jpg,Modern Data Analytics and Automated Data Warehousing,,Ramesh,Menon,10,,
+Consultants,Red Pill Analytics,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/081/298/37d1f55.jpg,Creating a Cloud-Based Big Data Ecosystem with Snowflake,,"Phil Goerdt,",Mike Fuller,8,P0838,4:00
+Founder & President,RapidMiner,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/048/017/172bc3c.jpg,How to Ruin your Business with Data Science & Machine Learning,,Ingo,Mierswa,2,P0806,10:00
+Carlson Executive in Residence,Optum,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAr_AAAAJGM0ZDkwOTc4LTQ2NGItNDFhZi04OTMxLTEyNmMxYWE3MGY0Nw.jpg,IDSc Data Science “End Game”,,Kevin ,Kuhn,7,Garden Room,3:15
+President/CTO,"Applied Logic Engineering, Inc.",https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/08f/050/2bd7d41.jpg,The Internet of Things - Navigating the Hardware Universe,,Kelly,Nehowig,6,P1808,2:15
+Software Engineer,Strava,https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAI4AAAAJDRjOWM4YjA0LTBlZDAtNDExOC04ZThkLTdmYjE4MjIzNGQ5Yw.jpg,Big Data for Better Cities,,Liam,Stewart,1,P1838,9:00
+Cofounder,GogyUp,https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/027/259/0f79fc9.jpg,What is a Neural Network?,,David,Radcliffe,7,P1808,3:15
