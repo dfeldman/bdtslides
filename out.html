@@ -340,7 +340,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8e1fc', end
     <div class="toppart">
       <img src="https://media.licdn.com/dms/image/C5603AQElWPLMiiAFhg/profile-displayphoto-shrink_800_800/0?e=1533772800&v=beta&t=QbD-7pH9n3q1tdYdpl8tqzHJaScQ4gEUlnfZuTnrFIg" class="speaker_img">
       <div class="title ">Preserving privacy in publicly available datasets</div>
-     <div class="speaker ">Sona Maniyan<br/> Jeff Van Voorst Maniyan</div>
+     <div class="speaker ">Sona Maniyan<br/> Jeff Van Voorst </div>
 </div>
       <div class="room_time">P0838 at  2:15 PM</div>
     </div>
@@ -426,7 +426,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8e1fc', end
 <section class="gradient group7 " style="height: 100%" ">
     <div class="bdr">
     <div class="toppart">
-      <img src="https://media.licdn.com/dms/image/C4E03AQEtECRVH6qAbA/profile-displayphoto-shrink_800_800/0?e=1533772800&v=beta&t=oqi1RB92t7637V2CGRfnbYuFjtS2DFbt4xU3WGrLq_w" class="speaker_img">
+      <img src="https://media.licdn.com/dms/image/C5103AQEQogXEhGNQlA/profile-displayphoto-shrink_800_800/0?e=1533772800&v=beta&t=haTPd-9fJQYikdkz6auksYIek6KcuMbbNdWbZDbW4L0" class="speaker_img">
       <div class="title ">DataOps &  Model Management with Stream 1st Architecture</div>
      <div class="speaker ">Bradley Hoskins</div>
 </div>
@@ -841,7 +841,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b8e1fc', end
     <div class="adtitle">
       Raffle Winners
 
-<div><iframe src="https://htmlpreview.github.io/?https://github.com/dfeldman/bdtslides/blob/master/raffle.html" width=75% height=75%> </iframe></div>
+<div><iframe id="raffle" src="https://htmlpreview.github.io/?https://github.com/dfeldman/bdtslides/blob/master/raffle.html" width=75% height=75%> </iframe></div>
     </div>
     </div>
 </section>
@@ -1010,8 +1010,9 @@ function nextSlide() {
 setInterval(startReq, 1000);
 setInterval(nextSlide, 6000);
 
-setInterval(function() { location.reload(true); console.log("RELOAD");}, 10*60*1000);
 
+setInterval(function() { location.reload(true); console.log("RELOAD");}, 10*60*1000);
+setInterval(function() { document.getElementById('raffle').src = document.getElementById('raffle').src; console.log("XYZ"); },  10*1000);
 		</script>
 
 		

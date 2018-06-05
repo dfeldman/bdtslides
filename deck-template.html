@@ -115,7 +115,7 @@ return{cI:!0,aliases:["cos","cls"],k:i,c:[r,t,e.CLCM,e.CBCM,{cN:"built_in",b:/\$
 var curgroup = 99;
 var curslide = Reveal.getIndices().h;
 var firstad = 49;
-var maxslide=81;
+var maxslide=82;
 var curad = firstad; 
 function reqListener () {
 console.log("GOT NUMBER");
@@ -154,7 +154,7 @@ console.log(1);
 
 function nextSlide() {
    if (curgroup == 99) {
-       Reveal.slide(81);
+       Reveal.slide(82);
        return;
    }
   if (Math.random() < 0.2 && curgroup != 99) {
@@ -193,10 +193,11 @@ function nextSlide() {
 }
 
 setInterval(startReq, 1000);
-setInterval(nextSlide, 3000);
+setInterval(nextSlide, 6000);
+
 
 setInterval(function() { location.reload(true); console.log("RELOAD");}, 10*60*1000);
-
+setInterval(function() { document.getElementById('raffle').src = document.getElementById('raffle').src; console.log("XYZ"); },  10*1000);
 		</script>
 
 		
